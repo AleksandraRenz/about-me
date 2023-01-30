@@ -1,1 +1,1 @@
-"Hello World!" Happy to see you here. My name is Alex and I'm a student at Edinburgh College. Curently during mat leave, returning to build my skills in programming, databases and testing technologies.
+"Hello World!" 
